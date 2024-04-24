@@ -15,7 +15,7 @@ Cursos Aprobados
 2. Geologia
 3. Mate para geo
 
-
+*Curriculum[https://jennymgm.github.io/Curriculum/]
 
 
 
